@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://bnz06pap002files.storage.live.com/y4mGIEJDX6dr-Q0uwMtcDoDW9A19-AkMEPUvnyuKRD1JN-A9_G_tzqt4q7wvymqCohf_zcQRUiFt-TR7RiVzWZ5VXWzk-BOWFIRwGnlNoSdqaSFSXblwUVmf2bGptAjic2ss540euqUm_AXwi1WIeEmQ1fn7h_6S54Eee25cBpSjf7YxQkIPfP_KEA4Iz7PiSp7j1tuwIxqwBQWXtgD01CRDY8fByvCYms8mXYOtVXq4IM?encodeFailures=1&width=724&height=181" align="center" style="width: 100%" />
+<img src="blob:https://photos.onedrive.com/5fb1e0c2-5cde-47c4-af7a-17933f33ee9d" align="center" style="width: 100%" />
 </div>  
   
 
