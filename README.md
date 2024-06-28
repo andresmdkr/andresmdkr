@@ -1,5 +1,5 @@
 <div align="center">
-<img src="blob:https://photos.onedrive.com/5fb1e0c2-5cde-47c4-af7a-17933f33ee9d" align="center" style="width: 100%" />
+<img src="https://res.cloudinary.com/dz6e4mbjk/image/upload/v1719577558/dmanksedqsb1decljmzk.png" />
 </div>  
   
 
